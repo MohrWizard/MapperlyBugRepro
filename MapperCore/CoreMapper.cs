@@ -8,6 +8,9 @@ namespace MapperCore
     public partial class CoreMapper
     {
         public partial ContainerModel Map(ContainerDto source);
+        public partial ItemModel Map(ItemDto source);
+
+
     }
 
 }
