@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{4433EB20-8862-48CD-A0A3-DCCFF95ED003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperCore", "MapperCore\MapperCore.csproj", "{0931BDC7-B84A-456B-B5ED-F8568092A634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperStandard", "MapperStandard\MapperStandard.csproj", "{3B5FF9C7-5196-4B9D-8F73-BBB942FB0A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4433EB20-8862-48CD-A0A3-DCCFF95ED003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4433EB20-8862-48CD-A0A3-DCCFF95ED003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4433EB20-8862-48CD-A0A3-DCCFF95ED003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4433EB20-8862-48CD-A0A3-DCCFF95ED003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0931BDC7-B84A-456B-B5ED-F8568092A634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0931BDC7-B84A-456B-B5ED-F8568092A634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0931BDC7-B84A-456B-B5ED-F8568092A634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0931BDC7-B84A-456B-B5ED-F8568092A634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5FF9C7-5196-4B9D-8F73-BBB942FB0A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5FF9C7-5196-4B9D-8F73-BBB942FB0A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5FF9C7-5196-4B9D-8F73-BBB942FB0A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5FF9C7-5196-4B9D-8F73-BBB942FB0A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB328A27-BBA4-4254-B068-4CEB9485F1D3}
+	EndGlobalSection
+EndGlobal
